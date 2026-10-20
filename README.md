@@ -2,6 +2,13 @@
 
 바닷속을 내려가며 유기상을 알아가는 인터랙티브 자기소개 웹과 기획 발표 자료입니다.
 
+## 웹에서 보기
+
+- [최종 기획 발표](https://gisangyu.github.io/my-depth/presentation/)
+- [프로토타입 체험](https://gisangyu.github.io/my-depth/prototype/)
+
+발표 마지막 슬라이드의 ‘프로토타입 체험하기’를 누르면 새 탭에서 체험 화면이 열립니다.
+
 ## 구성
 
 - [기획 발표](presentation/index.html): 36장으로 구성된 HTML 슬라이드. 발표용 이미지를 함께 포함합니다.
